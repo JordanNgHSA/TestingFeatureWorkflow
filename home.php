@@ -2,9 +2,5 @@
     // This is the code for the home files
     
     for( $i = 0; $i < 10; $i++ ) {
-        echo "Hello World! Wooot!";
+        echo "Hello World!<br>";
     }
-
-
-    // I'm adding this comment also updating the for loop above
-
